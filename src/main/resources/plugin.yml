@@ -1,0 +1,17 @@
+name: GameRuleBug
+main: xyz.ng7.gamerulebug.GameRuleBug
+version: 1.0.0
+api-version: '1.15'
+commands:
+  step1:
+    description: Step 1
+    usage: /<command>
+  step2:
+    description: Step 2
+    usage: /<command>
+  step3:
+    description: Step 3
+    usage: /<command>
+  step4:
+    description: Step 4
+    usage: /<command>
